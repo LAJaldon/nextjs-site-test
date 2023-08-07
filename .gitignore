@@ -28,3 +28,63 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+
+# dependencies
+develop/node_modules
+develop/.pnp
+develop/.pnp.js
+
+# testing
+develop/coverage
+
+# next.js
+develop/.next/
+develop/out/
+
+# production
+develop/build
+
+# misc
+develop/.DS_Store
+
+# debug
+develop/npm-debug.log*
+develop/yarn-debug.log*
+develop/yarn-error.log*
+
+# local env files
+develop/.env.local
+develop/.env.development.local
+develop/.env.test.local
+develop/.env.production.local
+
+
+# dependencies
+main/node_modules
+main/.pnp
+main/.pnp.js
+
+# testing
+main/coverage
+
+# next.js
+main/.next/
+main/out/
+
+# production
+main/build
+
+# misc
+main/.DS_Store
+
+# debug
+main/npm-debug.log*
+main/yarn-debug.log*
+main/yarn-error.log*
+
+# local env files
+main/.env.local
+main/.env.development.local
+main/.env.test.local
+main/.env.production.local
