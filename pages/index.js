@@ -11,10 +11,10 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Next.js not in prod!</a>
         </h1>
 
-        <h2>This is the production site! Added a change here</h2>
+        <h2>These changes are in a branch called feature/testing</h2>
 
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
