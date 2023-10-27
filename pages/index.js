@@ -15,8 +15,7 @@ export default function Home() {
         </h1>
 
         <h2>
-          This is the production site! Added another change here. Testing that
-          action works
+          This is the development site! I just pushed to the develop branch
         </h2>
 
         <p className={styles.description}>
